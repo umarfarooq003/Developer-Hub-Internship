@@ -1,0 +1,4 @@
+{"level":"info","message":"Application started","timestamp":"2025-05-16T18:43:32.121Z"}
+{"level":"info","message":"App running at http://localhost:3000","timestamp":"2025-05-16T18:43:32.193Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-05-16T18:43:32.219Z"}
+{"level":"info","message":"Successful login: umarfarooq003","timestamp":"2025-05-16T18:43:53.700Z"}
