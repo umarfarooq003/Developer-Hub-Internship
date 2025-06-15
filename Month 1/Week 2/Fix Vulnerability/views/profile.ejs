@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Profile</title>
+    <style>
+      body {
+        font-family: 'Segoe UI', sans-serif;
+        background: #fff7e6;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      .card {
+        background: white;
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        text-align: center;
+        width: 350px;
+      }
+      h2 {
+        color: #ff8800;
+      }
+      p {
+        color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h2>Welcome, <%= username %>!</h2>
+      <p>This is your profile page.</p>
+    </div>
+  </body>
+</html>

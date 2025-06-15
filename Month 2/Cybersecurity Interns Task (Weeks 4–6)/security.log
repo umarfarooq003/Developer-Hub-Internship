@@ -1,0 +1,45 @@
+{"level":"info","message":"Application started","timestamp":"2025-05-16T18:43:32.121Z"}
+{"level":"info","message":"App running at http://localhost:3000","timestamp":"2025-05-16T18:43:32.193Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-05-16T18:43:32.219Z"}
+{"level":"info","message":"Successful login: umarfarooq003","timestamp":"2025-05-16T18:43:53.700Z"}
+{"level":"info","message":"Application started","timestamp":"2025-05-25T08:45:08.271Z"}
+{"level":"info","message":"App running at http://localhost:3000","timestamp":"2025-05-25T08:45:08.699Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-05-25T08:45:08.816Z"}
+{"level":"info","message":"Application started","timestamp":"2025-05-26T16:42:54.241Z"}
+{"level":"info","message":"App running at http://localhost:5000","timestamp":"2025-05-26T16:42:54.431Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-05-26T16:42:54.477Z"}
+{"level":"info","message":"Successful login: umarfarooq003","timestamp":"2025-05-26T16:47:00.361Z"}
+{"level":"info","message":"Application started","timestamp":"2025-05-26T16:57:35.368Z"}
+{"level":"info","message":"App running at http://localhost:5000","timestamp":"2025-05-26T16:57:35.531Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-05-26T16:57:35.579Z"}
+{"level":"info","message":"Successful login: umarfarooq003","timestamp":"2025-05-26T16:57:56.806Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T16:38:43.126Z"}
+{"level":"info","message":"App running at http://localhost:5000","timestamp":"2025-06-15T16:38:43.168Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T16:38:43.184Z"}
+{"level":"info","message":"New user signed up: umarfarooq003","timestamp":"2025-06-15T16:39:18.819Z"}
+{"level":"info","message":"Successful login: umarfarooq003","timestamp":"2025-06-15T16:39:25.017Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T16:45:16.478Z"}
+{"level":"info","message":"App running at http://localhost:5000","timestamp":"2025-06-15T16:45:16.520Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T16:45:16.535Z"}
+{"level":"info","message":"Successful login: umarfarooq003","timestamp":"2025-06-15T16:45:33.787Z"}
+{"level":"info","message":"New user signed up: umar123","timestamp":"2025-06-15T16:45:52.395Z"}
+{"level":"info","message":"Successful login: umar123","timestamp":"2025-06-15T16:46:01.791Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T16:49:18.391Z"}
+{"level":"info","message":"App running at http://localhost:5000","timestamp":"2025-06-15T16:49:18.440Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T16:49:18.455Z"}
+{"level":"info","message":"Successful login: umar123","timestamp":"2025-06-15T16:49:30.688Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T17:08:46.886Z"}
+{"level":"info","message":"App running at http://localhost:5000","timestamp":"2025-06-15T17:08:46.965Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T17:08:46.983Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T17:20:29.481Z"}
+{"level":"info","message":"App running at http://0.0.0.0:5000","timestamp":"2025-06-15T17:20:29.529Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T17:20:29.545Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T17:22:41.707Z"}
+{"level":"info","message":"App running at http://0.0.0.0:5000","timestamp":"2025-06-15T17:22:41.761Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T17:22:41.780Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T17:24:00.367Z"}
+{"level":"info","message":"App running at http://0.0.0.0:5000","timestamp":"2025-06-15T17:24:00.417Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T17:24:00.437Z"}
+{"level":"info","message":"Application started","timestamp":"2025-06-15T18:36:10.565Z"}
+{"level":"info","message":"App running at http://0.0.0.0:5000","timestamp":"2025-06-15T18:36:10.609Z"}
+{"level":"info","message":"MongoDB connected!","timestamp":"2025-06-15T18:36:10.624Z"}
